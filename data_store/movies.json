@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "title": "The Goodfather",
+        "director": "Francis Ford Coppola",
+        "actors": "Marlon Brando, Al Pachino",
+        "year": 1972
+    },
+    {
+        "id": 2,
+        "title": "The Godfather part II",
+        "director": "Francis Ford Coppola",
+        "actors": "Al Pachino, Robert Duvall",
+        "year": 1974
+    },
+    {
+        "id": 3,
+        "title": "The Godfather part III",
+        "director": "Francis Ford Coppola",
+        "actors": "Al Pachino,  Diane Keton",
+        "year": 1990
+    }
+]

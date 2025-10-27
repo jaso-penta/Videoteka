@@ -1,0 +1,13 @@
+[
+    {
+        "id": 1,
+        "name": "Pero",
+        "surname": "Peric",
+        "phone": "091456789",
+        "email": {
+            "email_address": "pero@gmail.com",
+            "email_type": "Private"
+        },
+        "postal_adress": "Zagorska ulica"
+    }
+]
